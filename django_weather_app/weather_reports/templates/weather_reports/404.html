@@ -1,0 +1,14 @@
+<!-- 'extends' is used to inherit from the base.html template -->
+{% extends 'weather_reports/base.html' %}
+
+{% block content %}
+<div class="row justify-content-center my-5">
+    <div class="col-md-6 text-center">
+        <!-- Heading with styling from Bootstrap -->
+        <h1 class="text-secondary">Unable to Retrieve Weather Info</h1>
+        <p>Please check that you are connected to the Internet and that you have entered the city name correctly.</p>
+        <!-- Button linking back to the Home page with styling from Bootstrap -->
+        <a href="{% url 'home' %}" class="btn btn-secondary text-white">Home Page</a>
+    </div>
+</div>
+{% endblock %}
