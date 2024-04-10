@@ -37,3 +37,20 @@ Building my Django weather app was a fascinating experience that allowed me to e
 # Going Forward
 * I plan to enhance features and usability while practicing version control with Git.
 * I extensively researched object-oriented programming (OOP) and its benefits for maintainability, scalability, and readability in Django projects. Although I didn't fully implement OOP concepts in this project, I'm eager to explore them further in future endeavors.
+
+# Screenshots of User Interface
+
+**The Home Page**
+
+![Screen Shot 2024-04-09 at 9 47 29 AM](https://github.com/zig-182/django_weather_app/assets/142557054/3e51f3f6-780d-4b8e-965c-276e753a6a0d)
+
+**Added a City**
+
+![Screen Shot 2024-04-09 at 9 47 42 AM](https://github.com/zig-182/django_weather_app/assets/142557054/83314e95-ec28-47b4-932e-73ec25c983f0)
+
+**Error Loading Page**
+
+![Screen Shot 2024-04-09 at 9 54 05 AM](https://github.com/zig-182/django_weather_app/assets/142557054/f5d959d9-5300-455b-aa25-06709055470e)
+
+
+
